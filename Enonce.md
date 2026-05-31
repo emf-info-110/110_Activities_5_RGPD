@@ -79,7 +79,7 @@ Complétez le fichier `python/pipeline_exercice.py`. Chaque fonction correspond 
 
 ### Etape 0 — Définir l'objectif d'analyse
 
-Avant de coder, écrivez ici quel indicateur vous souhaitez calculer sur le fichier final (exemple : *nombre de clients par plan et par tranche d'âge*). Cet objectif guidera vos choix de minimisation.
+Avant de coder, réfléchissez à quel indicateur vous souhaitez calculer sur le fichier final (exemple : *nombre de clients par plan et par tranche d'âge*). Cet objectif guidera vos choix de minimisation.
 
 **Objectif défini :** produire des statistiques sur la base clients à destination d'un prestataire marketing externe :
 - Répartition des clients par plan (`free` / `pro` / `business`)
