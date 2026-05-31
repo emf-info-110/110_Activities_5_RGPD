@@ -1,0 +1,101 @@
+customer_id,created_at,last_login_at,first_name,last_name,email,phone,birthdate,street_address,city,postal_code,ip_last_seen,plan,marketing_opt_in
+c0001,2026-03-01T08:10:12Z,2026-04-18T21:02:51Z,Alice,Martin,alice.martin@example.com,+41 79 111 22 33,1998-07-14,"12 Rue des Fleurs",Lausanne,1003,10.0.1.12,free,true
+c0002,2026-03-02T09:25:40Z,2026-04-19T10:12:03Z,Bob,Dupont,bob.dupont@example.com,+41 78 222 33 44,1984-11-02,"7 Avenue du Lac",Geneva,1201,10.0.2.34,pro,false
+c0003,2026-03-05T16:42:05Z,2026-04-17T14:09:19Z,Chloe,Bernard,chloe.bernard@example.com,+41 76 333 44 55,2004-01-23,"3 Chemin du Pont",Lausanne,1007,10.0.1.77,free,true
+c0004,2026-03-07T12:01:55Z,2026-04-12T06:50:10Z,David,Rossi,david.rossi@example.com,+41 79 444 55 66,1976-05-30,"19 Rue Centrale",Bern,3001,10.0.3.18,business,false
+c0005,2026-03-09T20:10:18Z,2026-04-19T19:41:09Z,Emma,Petit,emma.petit@example.com,+41 78 555 66 77,1992-09-08,"2 Impasse du Parc",Geneva,1205,10.0.2.55,pro,true
+c0006,2026-03-10T07:59:02Z,2026-04-05T11:22:33Z,Fred,Meier,fred.meier@example.com,+41 76 666 77 88,1968-02-17,"44 Rue du Marche",Zurich,8001,10.0.4.21,free,false
+c0007,2026-03-12T14:14:14Z,2026-04-18T08:15:16Z,Gina,Weber,gina.weber@example.com,+41 79 777 88 99,1989-12-12,"9 Route de la Gare",Lausanne,1003,10.0.1.19,pro,true
+c0008,2026-03-15T10:00:00Z,2026-04-02T18:12:59Z,Hugo,Nguyen,hugo.nguyen@example.com,+41 78 888 99 00,2001-03-05,"1 Rue du Midi",Bern,3005,10.0.3.99,free,false
+c0009,2026-03-18T18:22:31Z,2026-04-19T07:07:07Z,Iris,Schmid,iris.schmid@example.com,+41 76 999 00 11,1995-06-21,"88 Avenue des Alpes",Zurich,8004,10.0.4.44,pro,true
+c0010,2026-03-20T05:44:12Z,2026-04-10T12:34:56Z,Jack,Muller,jack.muller@example.com,+41 79 123 45 67,1979-10-09,"6 Rue du Jura",Geneva,1201,10.0.2.12,business,false
+c0011,2026-03-21T11:11:11Z,2026-04-19T22:45:01Z,Kate,Morel,kate.morel@example.com,+41 78 234 56 78,2003-08-30,"15 Chemin Vert",Lausanne,1007,10.0.1.81,free,true
+c0012,2026-03-22T13:33:33Z,2026-04-11T09:09:09Z,Liam,Fischer,liam.fischer@example.com,+41 76 345 67 89,1987-04-19,"21 Rue du Soleil",Bern,3001,10.0.3.07,pro,false
+c0013,2026-03-24T17:05:42Z,2026-04-03T03:03:03Z,Mila,Garcia,mila.garcia@example.com,+41 79 456 78 90,1990-01-01,"5 Avenue du Rhone",Geneva,1205,10.0.2.71,free,true
+c0014,2026-03-26T06:06:06Z,2026-04-19T15:30:30Z,Noah,Silva,noah.silva@example.com,+41 78 567 89 01,1999-09-19,"10 Rue de l'Eglise",Zurich,8001,10.0.4.02,pro,false
+c0015,2026-03-28T22:22:22Z,2026-04-15T16:16:16Z,Olivia,Fontaine,olivia.fontaine@example.com,+41 76 678 90 12,1982-12-24,"27 Route du Chateau",Lausanne,1003,10.0.1.03,business,true
+c0016,2026-03-29T19:19:19Z,2026-04-18T20:20:20Z,Paul,Legrand,paul.legrand@example.com,+41 79 789 01 23,1971-07-07,"4 Rue des Vignes",Bern,3005,10.0.3.55,free,false
+c0017,2026-03-30T00:01:02Z,2026-04-19T08:08:08Z,Quinn,Bailly,quinn.bailly@example.com,+41 78 890 12 34,2000-05-15,"11 Avenue du Stade",Geneva,1201,10.0.2.90,pro,true
+c0018,2026-03-31T23:59:59Z,2026-04-06T06:06:06Z,Ruth,Perrot,ruth.perrot@example.com,+41 76 901 23 45,1993-02-02,"33 Rue du Port",Zurich,8004,10.0.4.88,free,false
+c0019,2026-04-01T01:23:45Z,2026-04-19T12:12:12Z,Sam,Blanc,sam.blanc@example.com,+41 79 012 34 56,1985-03-03,"18 Chemin du Moulin",Lausanne,1007,10.0.1.42,pro,true
+c0020,2026-04-02T02:34:56Z,2026-04-08T08:00:01Z,Tina,Rey,tina.rey@example.com,+41 78 135 79 24,1974-06-06,"9 Rue des Champs",Bern,3001,10.0.3.12,free,false
+c0021,2026-04-03T10:15:00Z,2026-05-01T09:30:00Z,Lea,Favre,lea.favre@example.com,+41 79 211 00 21,1996-04-12,"5 Rue du Centre",Lausanne,1004,10.0.1.50,free,true
+c0022,2026-04-03T11:20:00Z,2026-05-02T14:45:00Z,Nicolas,Dubois,nicolas.dubois@example.com,+41 78 312 11 22,1994-08-25,"8 Avenue de Cour",Lausanne,1004,10.0.1.51,free,false
+c0023,2026-04-04T08:00:00Z,2026-05-03T10:00:00Z,Sophie,Girard,sophie.girard@example.com,+41 76 413 22 33,1985-03-17,"15 Route de Chailly",Lausanne,1005,10.0.1.60,pro,true
+c0024,2026-04-04T09:30:00Z,2026-05-03T16:00:00Z,Thomas,Meyer,thomas.meyer@example.com,+41 79 514 33 44,1987-11-08,"3 Chemin des Roses",Lausanne,1005,10.0.1.61,pro,false
+c0025,2026-04-05T14:00:00Z,2026-05-04T08:30:00Z,Claire,Zimmermann,claire.zimmermann@example.com,+41 78 615 44 55,1975-06-22,"22 Rue de Geneve",Lausanne,1007,10.0.1.78,business,true
+c0026,2026-04-05T15:30:00Z,2026-05-05T11:00:00Z,Zoe,Lambert,zoe.lambert@example.com,+41 76 716 55 66,2003-09-14,"6 Chemin du Devin",Lausanne,1003,10.0.1.13,free,true
+c0027,2026-04-06T07:45:00Z,2026-05-05T17:30:00Z,Kevin,Chevalier,kevin.chevalier@example.com,+41 79 817 66 77,2005-02-28,"14 Rue des Acacias",Lausanne,1004,10.0.1.52,free,false
+c0028,2026-04-06T09:00:00Z,2026-05-06T09:15:00Z,Manon,Bertrand,manon.bertrand@example.com,+41 78 918 77 88,1997-07-03,"7 Avenue de la Gare",Lausanne,1005,10.0.1.62,pro,true
+c0029,2026-04-07T12:00:00Z,2026-05-06T14:00:00Z,Florian,Lacroix,florian.lacroix@example.com,+41 76 019 88 99,1988-12-31,"11 Route de Berne",Lausanne,1007,10.0.1.79,free,false
+c0030,2026-04-07T14:30:00Z,2026-05-07T10:45:00Z,Nathalie,Fournier,nathalie.fournier@example.com,+41 79 120 99 10,1978-04-05,"28 Rue du Tunnel",Lausanne,1003,10.0.1.14,pro,true
+c0031,2026-04-08T08:15:00Z,2026-05-07T15:20:00Z,Reto,Huber,reto.huber@example.com,+41 78 221 10 11,1965-08-19,"9 Chemin de Primerose",Lausanne,1004,10.0.1.53,business,false
+c0032,2026-04-08T10:00:00Z,2026-05-08T08:00:00Z,Sandra,Keller,sandra.keller@example.com,+41 76 322 21 22,1962-01-30,"4 Avenue du Theatre",Lausanne,1005,10.0.1.63,free,true
+c0033,2026-04-09T16:00:00Z,2026-05-08T18:00:00Z,Theo,Brunner,theo.brunner@example.com,+41 79 423 32 33,2004-05-11,"17 Rue de la Croix",Lausanne,1007,10.0.1.80,pro,false
+c0034,2026-04-09T18:30:00Z,2026-05-09T07:30:00Z,Camille,Schneider,camille.schneider@example.com,+41 78 524 43 44,1993-10-27,"2 Route de Prilly",Lausanne,1003,10.0.1.15,free,true
+c0035,2026-04-10T09:00:00Z,2026-05-09T13:00:00Z,Damien,Steiner,damien.steiner@example.com,+41 76 625 54 55,1983-07-14,"30 Rue du Marche",Lausanne,1004,10.0.1.54,pro,false
+c0036,2026-04-10T11:15:00Z,2026-05-10T09:00:00Z,Amelie,Bartsch,amelie.bartsch@example.com,+41 79 726 65 66,1998-03-22,"16 Chemin du Bois",Lausanne,1005,10.0.1.64,business,true
+c0037,2026-04-11T07:30:00Z,2026-05-10T15:45:00Z,Yann,Russo,yann.russo@example.com,+41 78 827 76 77,1976-09-09,"5 Route de Renens",Lausanne,1007,10.0.1.82,free,false
+c0038,2026-04-11T13:45:00Z,2026-05-11T10:30:00Z,Isabelle,Ferrari,isabelle.ferrari@example.com,+41 76 928 87 88,1986-06-18,"23 Rue Saint-Martin",Lausanne,1003,10.0.1.16,pro,true
+c0039,2026-04-12T10:00:00Z,2026-05-11T16:00:00Z,Jean-Paul,Pellegrini,jean-paul.pellegrini@example.com,+41 79 029 98 99,1968-11-04,"12 Avenue des Figuiers",Lausanne,1004,10.0.1.55,free,false
+c0040,2026-04-12T14:00:00Z,2026-05-12T09:00:00Z,Marco,Bianchi,marco.bianchi@example.com,+41 78 130 09 10,1990-02-14,"19 Rue de Rive",Geneva,1202,10.0.2.20,free,false
+c0041,2026-04-13T08:30:00Z,2026-05-12T14:30:00Z,Valentina,Ricci,valentina.ricci@example.com,+41 76 231 10 21,1995-07-29,"4 Quai des Bergues",Geneva,1202,10.0.2.21,pro,true
+c0042,2026-04-13T10:15:00Z,2026-05-13T08:45:00Z,Giulia,Martini,giulia.martini@example.com,+41 79 332 21 32,2001-11-03,"8 Rue de la Fontaine",Geneva,1204,10.0.2.40,free,true
+c0043,2026-04-14T09:00:00Z,2026-05-13T15:00:00Z,Lorenzo,Serra,lorenzo.serra@example.com,+41 78 433 32 43,1982-08-16,"3 Route de Frontenex",Geneva,1204,10.0.2.41,business,false
+c0044,2026-04-14T12:30:00Z,2026-05-14T10:15:00Z,Chiara,Monti,chiara.monti@example.com,+41 76 534 43 54,1987-04-07,"14 Rue des Vollandes",Geneva,1205,10.0.2.56,pro,true
+c0045,2026-04-15T08:00:00Z,2026-05-14T16:45:00Z,Filippo,Greco,filippo.greco@example.com,+41 79 635 54 65,2005-01-21,"2 Rue de la Croix-Rouge",Geneva,1201,10.0.2.13,free,false
+c0046,2026-04-15T10:45:00Z,2026-05-15T09:30:00Z,Marta,Cattaneo,marta.cattaneo@example.com,+41 78 736 65 76,1970-12-08,"31 Rue du Rhone",Geneva,1202,10.0.2.22,free,true
+c0047,2026-04-16T14:00:00Z,2026-05-15T14:00:00Z,Roberto,Lombardi,roberto.lombardi@example.com,+41 76 837 76 87,1963-05-25,"7 Avenue Pictet-de-Rochemont",Geneva,1204,10.0.2.42,pro,false
+c0048,2026-04-16T16:30:00Z,2026-05-16T08:00:00Z,Laura,Gallo,laura.gallo@example.com,+41 79 938 87 98,1978-09-12,"16 Chemin Rieu",Geneva,1205,10.0.2.57,business,true
+c0049,2026-04-17T09:15:00Z,2026-05-16T13:15:00Z,Matteo,Ferretti,matteo.ferretti@example.com,+41 78 039 98 09,1992-03-30,"5 Chemin de Bougeries",Geneva,1201,10.0.2.14,free,false
+c0050,2026-04-17T11:00:00Z,2026-05-17T09:45:00Z,Silvia,Marini,silvia.marini@example.com,+41 76 140 09 20,1985-10-15,"22 Route de Malagnou",Geneva,1202,10.0.2.23,pro,true
+c0051,2026-04-18T07:30:00Z,2026-05-17T15:30:00Z,Alessandro,Colombo,alessandro.colombo@example.com,+41 79 241 10 31,1999-06-11,"9 Avenue de Champel",Geneva,1204,10.0.2.43,free,false
+c0052,2026-04-18T09:00:00Z,2026-05-18T08:30:00Z,Francesca,Bruno,francesca.bruno@example.com,+41 78 342 21 42,1975-02-19,"11 Route de Florissant",Geneva,1205,10.0.2.58,pro,true
+c0053,2026-04-18T11:30:00Z,2026-05-18T14:00:00Z,Davide,Pfister,davide.pfister@example.com,+41 76 443 32 53,1988-08-03,"3 Rue Hoffmann",Geneva,1201,10.0.2.15,business,false
+c0054,2026-04-19T08:00:00Z,2026-05-18T16:30:00Z,Elena,Graber,elena.graber@example.com,+41 79 544 43 64,2003-04-25,"17 Rue de Vermont",Geneva,1202,10.0.2.24,free,true
+c0055,2026-04-03T09:00:00Z,2026-05-01T11:00:00Z,Stefan,Kaser,stefan.kaser@example.com,+41 78 645 54 75,1985-01-07,"6 Bahnhofstrasse",Zurich,8002,10.0.4.10,pro,false
+c0056,2026-04-03T14:30:00Z,2026-05-02T09:30:00Z,Barbara,Luthi,barbara.luthi@example.com,+41 76 746 65 86,1979-07-22,"18 Limmatquai",Zurich,8002,10.0.4.11,free,true
+c0057,2026-04-04T08:15:00Z,2026-05-02T15:00:00Z,Andreas,Muller,andreas.muller@example.com,+41 79 847 76 97,1972-11-30,"4 Talstrasse",Zurich,8005,10.0.4.50,business,false
+c0058,2026-04-04T10:45:00Z,2026-05-03T08:00:00Z,Claudia,Bachmann,claudia.bachmann@example.com,+41 78 948 87 08,1993-05-16,"9 Langstrasse",Zurich,8005,10.0.4.51,free,true
+c0059,2026-04-05T07:30:00Z,2026-05-03T14:45:00Z,Tobias,Widmer,tobias.widmer@example.com,+41 76 049 98 19,2001-08-04,"25 Sihlstrasse",Zurich,8001,10.0.4.22,pro,false
+c0060,2026-04-05T13:00:00Z,2026-05-04T10:00:00Z,Monika,Kohler,monika.kohler@example.com,+41 79 150 09 30,1966-03-13,"7 Pelikanstrasse",Zurich,8002,10.0.4.12,free,true
+c0061,2026-04-06T08:30:00Z,2026-05-04T15:30:00Z,Markus,Vogel,markus.vogel@example.com,+41 78 251 10 41,1988-09-21,"12 Wiedingstrasse",Zurich,8005,10.0.4.52,pro,false
+c0062,2026-04-06T11:15:00Z,2026-05-05T09:00:00Z,Heidi,Frei,heidi.frei@example.com,+41 76 352 21 52,1955-06-08,"3 Forchstrasse",Zurich,8004,10.0.4.45,free,true
+c0063,2026-04-07T09:45:00Z,2026-05-05T14:15:00Z,Christian,Ott,christian.ott@example.com,+41 79 453 32 63,1981-12-17,"20 Seefeldstrasse",Zurich,8001,10.0.4.23,business,false
+c0064,2026-04-07T15:00:00Z,2026-05-06T08:30:00Z,Ingrid,Gasser,ingrid.gasser@example.com,+41 78 554 43 74,1995-04-02,"14 Dufourstrasse",Zurich,8002,10.0.4.13,pro,true
+c0065,2026-04-08T08:00:00Z,2026-05-06T16:00:00Z,Daniel,Fuchs,daniel.fuchs@example.com,+41 76 655 54 85,2004-10-30,"8 Hardturmstrasse",Zurich,8005,10.0.4.53,free,false
+c0066,2026-04-08T10:30:00Z,2026-05-07T10:30:00Z,Katharina,Moser,katharina.moser@example.com,+41 79 756 65 96,1983-01-25,"5 Freiestrasse",Zurich,8004,10.0.4.46,pro,true
+c0067,2026-04-09T13:00:00Z,2026-05-07T15:00:00Z,Peter,Koch,peter.koch@example.com,+41 78 857 76 07,1977-08-14,"16 Badenerstrasse",Zurich,8001,10.0.4.24,free,false
+c0068,2026-04-09T16:45:00Z,2026-05-08T09:15:00Z,Eva,Bauer,eva.bauer@example.com,+41 76 958 87 18,1990-03-07,"2 Stadelhoferstrasse",Zurich,8002,10.0.4.14,business,true
+c0069,2026-04-10T08:30:00Z,2026-05-08T14:45:00Z,Lukas,Wehrli,lukas.wehrli@example.com,+41 79 059 98 29,1998-11-19,"10 Toblerstrasse",Zurich,8005,10.0.4.54,free,false
+c0070,2026-04-10T12:00:00Z,2026-05-09T10:00:00Z,Anna,Pfister,anna.pfister@example.com,+41 78 160 09 40,1971-06-28,"29 Minervastrasse",Zurich,8004,10.0.4.47,pro,true
+c0071,2026-04-03T08:00:00Z,2026-05-01T08:00:00Z,Pierre,Dubois,pierre.dubois@example.com,+41 76 261 10 51,1989-04-20,"7 Gerechtigkeitsgasse",Bern,3003,10.0.3.20,free,false
+c0072,2026-04-04T10:00:00Z,2026-05-02T10:00:00Z,Marie,Renard,marie.renard@example.com,+41 79 362 21 62,1994-12-08,"3 Kramgasse",Bern,3007,10.0.3.70,pro,true
+c0073,2026-04-05T12:00:00Z,2026-05-03T12:00:00Z,Christophe,Simon,christophe.simon@example.com,+41 78 463 32 73,1968-07-15,"15 Junkerngasse",Bern,3003,10.0.3.21,business,false
+c0074,2026-04-06T14:00:00Z,2026-05-04T14:00:00Z,Celine,Martel,celine.martel@example.com,+41 76 564 43 84,2002-03-22,"8 Nydeggstalden",Bern,3007,10.0.3.71,free,true
+c0075,2026-04-07T16:00:00Z,2026-05-05T16:00:00Z,Gregory,Favre,gregory.favre@example.com,+41 79 665 54 95,1982-09-03,"21 Speichergasse",Bern,3003,10.0.3.22,pro,false
+c0076,2026-04-08T08:30:00Z,2026-05-06T08:30:00Z,Isabelle,Rochat,isabelle.rochat@example.com,+41 78 766 65 06,1979-02-14,"4 Postgasse",Bern,3007,10.0.3.72,free,true
+c0077,2026-04-09T10:30:00Z,2026-05-07T10:30:00Z,Sebastien,Bourgeois,sebastien.bourgeois@example.com,+41 76 867 76 17,1975-06-28,"12 Herrengasse",Bern,3003,10.0.3.23,business,false
+c0078,2026-04-10T12:30:00Z,2026-05-08T12:30:00Z,Martine,Girardin,martine.girardin@example.com,+41 79 968 87 28,1987-11-11,"9 Marktgasse",Bern,3007,10.0.3.73,pro,true
+c0079,2026-04-11T14:30:00Z,2026-05-09T14:30:00Z,Patrick,Bourgeois,patrick.bourgeois@example.com,+41 78 069 98 39,1960-04-19,"6 Rathausgasse",Bern,3003,10.0.3.24,free,false
+c0080,2026-04-12T16:30:00Z,2026-05-10T16:30:00Z,Coralie,Schwartz,coralie.schwartz@example.com,+41 76 170 09 50,1996-08-07,"18 Kornhausstrasse",Bern,3007,10.0.3.74,free,true
+c0081,2026-04-03T09:30:00Z,2026-05-01T09:30:00Z,Hans-Peter,Gerber,hans-peter.gerber@example.com,+41 79 271 10 61,1974-01-12,"5 Freie Strasse",Basel,4001,10.0.5.10,free,false
+c0082,2026-04-04T11:30:00Z,2026-05-02T11:30:00Z,Ursula,Meier,ursula.meier@example.com,+41 78 372 21 72,1988-05-27,"11 Aeschenvorstadt",Basel,4051,10.0.5.51,pro,true
+c0083,2026-04-05T13:30:00Z,2026-05-03T13:30:00Z,Kurt,Schumacher,kurt.schumacher@example.com,+41 76 473 32 83,1963-10-03,"7 Steinenvorstadt",Basel,4052,10.0.5.52,business,false
+c0084,2026-04-06T15:30:00Z,2026-05-04T15:30:00Z,Brigitte,Hofmann,brigitte.hofmann@example.com,+41 79 574 43 94,2000-07-18,"3 Rheingasse",Basel,4001,10.0.5.11,free,true
+c0085,2026-04-07T08:00:00Z,2026-05-05T08:00:00Z,Werner,Zimmermann,werner.zimmermann@example.com,+41 78 675 54 05,1982-02-09,"19 Greifengasse",Basel,4053,10.0.5.53,pro,false
+c0086,2026-04-08T10:00:00Z,2026-05-06T10:00:00Z,Irene,Knutti,irene.knutti@example.com,+41 76 776 65 16,1991-08-25,"8 Mittlere Strasse",Basel,4051,10.0.5.54,free,true
+c0087,2026-04-09T12:00:00Z,2026-05-07T12:00:00Z,Fritz,Blaser,fritz.blaser@example.com,+41 79 877 76 27,1958-03-14,"24 Klybeckstrasse",Basel,4052,10.0.5.55,business,false
+c0088,2026-04-10T14:00:00Z,2026-05-08T14:00:00Z,Regula,Strasser,regula.strasser@example.com,+41 78 978 87 38,1977-12-31,"2 Gundeldingerstrasse",Basel,4001,10.0.5.12,free,true
+c0089,2026-04-11T16:00:00Z,2026-05-09T16:00:00Z,Beat,Kaufmann,beat.kaufmann@example.com,+41 76 079 98 49,1995-05-16,"16 Reinacherstrasse",Basel,4053,10.0.5.56,pro,false
+c0090,2026-04-12T08:30:00Z,2026-05-10T08:30:00Z,Doris,Hug,doris.hug@example.com,+41 79 180 09 60,1969-09-22,"10 Hebelstrasse",Basel,4051,10.0.5.57,free,true
+c0091,2026-04-13T09:00:00Z,2026-05-11T09:00:00Z,Reto,Hauser,reto.hauser@example.com,+41 78 281 10 71,1985-06-11,"4 Eichstrasse",Winterthur,8400,10.0.6.10,pro,false
+c0092,2026-04-14T11:00:00Z,2026-05-12T11:00:00Z,Sonja,Meier,sonja.meier@example.com,+41 76 382 21 82,1992-01-29,"9 Technikumstrasse",Winterthur,8401,10.0.6.11,free,true
+c0093,2026-04-15T13:00:00Z,2026-05-13T13:00:00Z,Marcel,Egli,marcel.egli@example.com,+41 79 483 32 93,1978-10-16,"6 Marktgasse",Winterthur,8400,10.0.6.12,business,false
+c0094,2026-04-16T15:00:00Z,2026-05-14T15:00:00Z,Petra,Schafer,petra.schafer@example.com,+41 78 584 43 04,2001-04-08,"13 Rudolfstrasse",Winterthur,8401,10.0.6.13,free,true
+c0095,2026-04-17T08:30:00Z,2026-05-15T08:30:00Z,Daniel,Bosshart,daniel.bosshart@example.com,+41 76 685 54 15,1967-07-23,"22 Hegifeldstrasse",Winterthur,8400,10.0.6.14,pro,false
+c0096,2026-04-18T10:00:00Z,2026-05-16T10:00:00Z,Brigitte,Arnold,brigitte.arnold@example.com,+41 79 786 65 26,1981-03-05,"5 Kramgasse",Lucerne,6002,10.0.7.10,free,true
+c0097,2026-04-18T12:00:00Z,2026-05-16T12:00:00Z,Thomas,Bucher,thomas.bucher@example.com,+41 78 887 76 37,1994-09-18,"11 Hirschengraben",Lucerne,6003,10.0.7.11,pro,false
+c0098,2026-04-19T08:00:00Z,2026-05-17T08:00:00Z,Monica,Steffen,monica.steffen@example.com,+41 76 988 87 48,1972-06-30,"3 Museggstrasse",Lucerne,6002,10.0.7.12,business,true
+c0099,2026-04-19T10:00:00Z,2026-05-17T10:00:00Z,Josef,Muller,josef.muller@example.com,+41 79 089 98 59,1959-12-11,"7 Weggisgasse",Lucerne,6003,10.0.7.13,free,false
+c0100,2026-04-19T12:00:00Z,2026-05-18T12:00:00Z,Sabine,Widmer,sabine.widmer@example.com,+41 78 190 09 70,1988-02-14,"15 Arsenalstrasse",Lucerne,6002,10.0.7.14,pro,true
